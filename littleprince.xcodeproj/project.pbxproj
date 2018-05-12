@@ -12,6 +12,7 @@
 		7305139020A5BC4F00539DF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7305138E20A5BC4F00539DF4 /* Main.storyboard */; };
 		7305139220A5BC5500539DF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7305139120A5BC5500539DF4 /* Assets.xcassets */; };
 		7305139520A5BC5500539DF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7305139320A5BC5500539DF4 /* LaunchScreen.storyboard */; };
+		7305139D20A5BC7F00539DF4 /* LittleOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7305139C20A5BC7F00539DF4 /* LittleOneViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7305139120A5BC5500539DF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7305139420A5BC5500539DF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7305139620A5BC5500539DF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7305139C20A5BC7F00539DF4 /* LittleOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleOneViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7305138A20A5BC4F00539DF4 /* AppDelegate.swift */,
 				7305138C20A5BC4F00539DF4 /* ViewController.swift */,
 				7305138E20A5BC4F00539DF4 /* Main.storyboard */,
+				7305139C20A5BC7F00539DF4 /* LittleOneViewController.swift */,
 				7305139120A5BC5500539DF4 /* Assets.xcassets */,
 				7305139320A5BC5500539DF4 /* LaunchScreen.storyboard */,
 				7305139620A5BC5500539DF4 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7305139D20A5BC7F00539DF4 /* LittleOneViewController.swift in Sources */,
 				7305138D20A5BC4F00539DF4 /* ViewController.swift in Sources */,
 				7305138B20A5BC4F00539DF4 /* AppDelegate.swift in Sources */,
 			);
